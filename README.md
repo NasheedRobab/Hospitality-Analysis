@@ -17,4 +17,5 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+<img width="1396" alt="Screenshot 2024-09-26 at 8 46 59 PM" src="https://github.com/user-attachments/assets/b5cbb0ee-3d0d-49df-8be3-d2f3708dce9a">
 
